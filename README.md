@@ -75,8 +75,8 @@ Santo André, São Paulo, Brasil
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felype%20Ulian-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-@felypinhou-E4405F?style=flat-square&logo=instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=flat-square&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-@-E4405F?style=flat-square&logo=instagram&logoColor=white)]()
 
 <br/>
 
