@@ -64,8 +64,8 @@ Santo André, São Paulo, Brasil
 
 <div align="center">
 
-<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Felypeulian&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br" />
-<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felypeulian&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=6" />
+<img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&locale=pt-br" />
+<img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&langs_count=6" />
 
 </div>
 
